@@ -1,0 +1,28 @@
+.navbar{
+    margin-top: 20px;
+    margin-left: 30%;
+    position: relative;
+}
+.navbar a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 25px;
+    color: grey;
+    display: inline-block;
+}
+.navbar a::after{
+    content: '';
+    position: absolute;
+    display: block;
+    width: 0;
+    height: 3px;
+    background-color: tomato;
+    margin: auto;
+    transition: all 1s;
+}
+.navbar a:hover::after{
+    width: 50px;
+    color: tomato;
+}

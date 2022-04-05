@@ -1,0 +1,50 @@
+    [
+        {
+            "name": "Elma Casey",
+            "id": "1",
+            "ratings": "4.2",
+            "price": "124.23",
+            "picture": "https://m.media-amazon.com/images/I/61efXD7PWzL._AC_UL320_.jpg",
+            "review": "Very nice watch, comes packaged carefully and box it comes in is very chic and clean. Very happy with the purchase, my dad will be very happy on his birthday :)"
+        },
+        {
+            "name": "Corina Phelps",
+            "id": "2",
+            "ratings": "4.3",
+            "price": "149.60",
+            "picture": "https://m.media-amazon.com/images/I/91e+CxqiMrL._AC_UL320_.jpg",
+            "review": "Well the watch is definitely oversized. I couldn't find any photos on the internet so I was little bit surprised how it looks in real life. I couldn't imagine this watch on men because for me"
+        },
+        {
+            "name": "Bernadette Rutledge",
+            "id": "3",
+            "ratings": "4.4",
+            "price": "200.88",
+            "picture": "https://m.media-amazon.com/images/I/6181t0057sL._AC_UL320_.jpg",
+            "review": "This is a nice watch, very sparkly and pretty. Would probably be better suited for a young woman."
+        },
+        {
+            "name": "Bradford Herring",
+            "id": "4",
+            "ratings": "4.4",
+            "price": "359.93",
+            "picture": "https://m.media-amazon.com/images/I/718AVhhc1GL._AC_UL320_.jpg",
+            "review": "Its a lovely watch. I bought this in a sale and didn't think I would reach much for it, but actually do quite often because it looks great on me. Surprisingly good fine."
+        },
+        {
+            "name": "Martina Larsen",
+            "id": "5",
+            "ratings": "4.5",
+            "price": "158.80",
+            "picture": "https://m.media-amazon.com/images/I/81fZGprFe8L._AC_UL320_.jpg",
+            "review": "These smartwatches branded as MK are fossil smartwatches under the skin. Dont expect a life beyond 2years or any repair from this watch in the future . I had one bought as a present"
+        },
+        {
+            "name": "Toni Bentley",
+            "id": "6",
+            "ratings": "4.6",
+            "price": "142.00",
+            "picture": "https://m.media-amazon.com/images/I/81q5dKdYRlL._AC_UL320_.jpg",
+            "review": "Very nice watch, the case looked really small when I first unboxed it but I think that was just because I was used to something bigger, after a day or so of wearing it I've got used to it and the size is perfect"
+        }
+    ]

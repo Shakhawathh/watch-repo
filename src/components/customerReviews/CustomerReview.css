@@ -1,0 +1,6 @@
+.customer{
+    display: flex;
+    width: 1200px;
+    margin: 20px auto;
+    align-items: center;
+}
